@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sunilkumarchaurasiya
 - 👀 I’m interested in aws cloud computing jobs/internship
-- 🌱 I’m currently learning ...aws
+- 🌱 I’m currently learning ...aws,devops
 - 💞️ I’m looking to collaborate on ...anyone who can enhace my skills
-- 📫 How to reach me ...mygmail=
-priencechaurasiya805@gmail.com
+- 📫 How to reach me ...mygmail=priencechaurasiya805@gmail.com
 
 <!---
 sunilkumarchaurasiya/sunilkumarchaurasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
